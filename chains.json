@@ -6,5 +6,93 @@
         "address": "0x04D45b51fe4f00b4478F8b0719Fa779f14c8A194"
       }
     }
+  },
+  "0xe546eb5101b6e984e545835f4ea801918f4bdff887dd97a4db548154958bcd09": {
+    "contracts": {
+      "0xbc5f825264caba60f3c282de99304094c7b00243d45a15466a0a9bac231e47f3": {
+        "name": "PingPong",
+        "address": "0x82F6e662CBC24d687f7D6f58f503DCbE78069ADb"
+      }
+    }
+  },
+  "0xe4fb35287d0c609aa07d88f7a6fc5b6c3e2a12d9ca85ea43111cae11b2af0e85": {
+    "contracts": {
+      "0xbc5f825264caba60f3c282de99304094c7b00243d45a15466a0a9bac231e47f3": {
+        "name": "PingPong",
+        "address": "0xCE5A1A38869e8Cb538415DF54DFf9E8E1B431b54"
+      }
+    }
+  },
+  "0xfafaf24d984fdf201c9bfd242c84c3b21242cec3fee59b3153c089abc0593c3c": {
+    "contracts": {
+      "0xbc5f825264caba60f3c282de99304094c7b00243d45a15466a0a9bac231e47f3": {
+        "name": "PingPong",
+        "address": "0xe79700bdE8c7B2aAf1ECCa61178f9ff5ab00E697"
+      }
+    }
+  },
+  "0xa7b08d8f1880594547828eeaac78d04879d6555ac0215aaf5db5ba6c1746e7f8": {
+    "contracts": {
+      "0xbc5f825264caba60f3c282de99304094c7b00243d45a15466a0a9bac231e47f3": {
+        "name": "PingPong",
+        "address": "0x589Be041574F4Ab599603E5A101ab09af60096f7"
+      }
+    }
+  },
+  "0x9e9e4f7870b160c915342e03a7bcd3caacf036528226c94630e732c598013239": {
+    "contracts": {
+      "0xbc5f825264caba60f3c282de99304094c7b00243d45a15466a0a9bac231e47f3": {
+        "name": "PingPong",
+        "address": "0x1ABBD681b2b0350AA410eBe4d21a52D73f13492A"
+      }
+    }
+  },
+  "0xe4c5e57af3349df964b0275d6a9efa3d9c5b4da787751d7a517566036af0c22f": {
+    "contracts": {
+      "0xbc5f825264caba60f3c282de99304094c7b00243d45a15466a0a9bac231e47f3": {
+        "name": "PingPong",
+        "address": "0x055835dD9f1984BbF801Fc9AFC706D93F60D851A"
+      }
+    }
+  },
+  "0x239a2e7c0416bfb839a6d068c81779ebabbdcf7b033385860512c674697f1f12": {
+    "contracts": {
+      "0xbc5f825264caba60f3c282de99304094c7b00243d45a15466a0a9bac231e47f3": {
+        "name": "PingPong",
+        "address": "0x6c2E9eeb86b0d137AA5E8b8F7d24F7b876F3B51a"
+      }
+    }
+  },
+  "0xaeffa1ffb68587539e206f6da478200162ab31e5fe665226d2f4101e554da25f": {
+    "contracts": {
+      "0xbc5f825264caba60f3c282de99304094c7b00243d45a15466a0a9bac231e47f3": {
+        "name": "PingPong",
+        "address": "0x4Ad16fEbeE975115dc44Aa648d115419e9CB61ff"
+      }
+    }
+  },
+  "0x38319df63a428c412d4e92da208a3d3a26d9c104b78918d5b114c9b1a0f9cfe2": {
+    "contracts": {
+      "0xbc5f825264caba60f3c282de99304094c7b00243d45a15466a0a9bac231e47f3": {
+        "name": "PingPong",
+        "address": "0x8D4b1D72fEb9c563054eDcC8A7af9d0D01E3B40C"
+      }
+    }
+  },
+  "0x63b14af6985f85c4540bd86685ff9b55ce8d3e2e86828c2d9ed0e04fd1830e80": {
+    "contracts": {
+      "0xbc5f825264caba60f3c282de99304094c7b00243d45a15466a0a9bac231e47f3": {
+        "name": "PingPong",
+        "address": "0x4fc4d477C831067631450dF95BC6F22C10406396"
+      }
+    }
+  },
+  "0x2189374408b97be22a2fae8c6ee82ee0c22cf163c1114b46dcc45a38126d8d91": {
+    "contracts": {
+      "0xbc5f825264caba60f3c282de99304094c7b00243d45a15466a0a9bac231e47f3": {
+        "name": "PingPong",
+        "address": "0x2365D1dE81bf10E6845C8b4c4522C0D6c82D88D3"
+      }
+    }
   }
 }
