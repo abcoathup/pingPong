@@ -27,8 +27,9 @@ contract("PingPong", function () {
 
   it("should pong to a ping", async function () {
     const txResult = await PingPong.methods.ping().send();
-    const events = txResult.events
-    // now we can inspect the events
-    console.log(events);
+    const event = txResult.events.Pong;
+    const pinger = event.returnValues._pinger;
+    
+    assert.equal(pinger, accounts[0]);
   });
 })

@@ -94,5 +94,37 @@
         "address": "0x2365D1dE81bf10E6845C8b4c4522C0D6c82D88D3"
       }
     }
+  },
+  "0xaa15d50608a59b530a0e0b518db24e27381252b6c72b0add608474b67e2d3bd4": {
+    "contracts": {
+      "0xbc5f825264caba60f3c282de99304094c7b00243d45a15466a0a9bac231e47f3": {
+        "name": "PingPong",
+        "address": "0x5DFF7C653898B37bB3cA1326d15dd1BfE966d7a0"
+      }
+    }
+  },
+  "0x116537d13707ee95dd8d87c63a63a7695cf7382d85604d6b8f1a5eb4353ce310": {
+    "contracts": {
+      "0xbc5f825264caba60f3c282de99304094c7b00243d45a15466a0a9bac231e47f3": {
+        "name": "PingPong",
+        "address": "0x979466c5c6Df21FAfeFaD72CC6791D06cea94a85"
+      }
+    }
+  },
+  "0x473ce56d296456065b4bf56803f4c32c8cc0374430600163f259bbf5a82f66d1": {
+    "contracts": {
+      "0xbc5f825264caba60f3c282de99304094c7b00243d45a15466a0a9bac231e47f3": {
+        "name": "PingPong",
+        "address": "0x79C50530928Ac17D59599d3141343cf53C817da1"
+      }
+    }
+  },
+  "0x6591684fb9f1e9b02347a4cdc05ea5bc3facbf08d4201ef74dbf8b5fcf7d44e4": {
+    "contracts": {
+      "0xbc5f825264caba60f3c282de99304094c7b00243d45a15466a0a9bac231e47f3": {
+        "name": "PingPong",
+        "address": "0x9f327d7fcc227e2B4C26da7a5a387C98cF479Cd7"
+      }
+    }
   }
 }
