@@ -1,0 +1,10 @@
+{
+  "0x81d04e1e77408167a00b504f90e7b0415f96c62ecc76589dd5c52f1e7566b004": {
+    "contracts": {
+      "0x9300551c6771d46fe79d48c5c95f588aa7037a86aeac4da6c7617c5c021f8fbf": {
+        "name": "PingPong",
+        "address": "0x04D45b51fe4f00b4478F8b0719Fa779f14c8A194"
+      }
+    }
+  }
+}
